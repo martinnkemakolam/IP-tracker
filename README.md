@@ -9,8 +9,6 @@ This is a solution to the [IP address tracker challenge on Frontend Mentor](http
 - [Built with](#built-with)
 - [What I learned](#what-i-learned)
 
-## Overview 
-
 ### The challenge
 
 Users should be able to:
