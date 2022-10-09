@@ -6,7 +6,7 @@ body{
     display: grid;
     width: 100vw;
     height: 40vh;
-    background-image: url(/images/pattern-bg.png);
+    background-image: url(/images/Pattern-bg.png);
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
